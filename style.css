@@ -211,7 +211,7 @@ footer p {
     text-decoration: none;
 }
 
-@media screen and (max-width:375px){
+@media(max-width:375px){
 
     .showcase__section{
         background: var(--veryPaleCyan);
