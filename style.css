@@ -19,9 +19,9 @@ body{
 .showcase__section{
     background: var(--veryPaleCyan);
     background-image: url('images/bg-hero-desktop.svg');
-    background-position: center;
+    /* background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     padding-bottom: 3em;
 }
 
@@ -216,9 +216,9 @@ footer p {
     .showcase__section{
         background: var(--veryPaleCyan);
         background-image: url('images/bg-hero-mobile.svg');
-        background-position: center;
+        /* background-position: center;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: cover; */
         /* height: 100vh; */
     }
     .showcase__div{
